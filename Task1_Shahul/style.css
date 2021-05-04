@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear-fix{
+    margin-top: 50px;
+}
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial !important;
+}
+
+.carousel-caption h5 {
+    color: rgb(0, 0, 0);
+    font-size: 42px;
+}
+.carousel-caption p{
+    color:black;
+    font-size: 25px;
+}
+input[type=text] {
+    width: 100%  !important;
+}
+
